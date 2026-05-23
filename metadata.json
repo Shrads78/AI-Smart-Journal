@@ -1,0 +1,6 @@
+{
+  "name": "Voice Smart Journal",
+  "description": "A voice-first smart journaling web app that analyzes spoken reflections to extract mood, stress, self-talk patterns, and triggers, providing interactive dashboards and real-time grounding interventions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
